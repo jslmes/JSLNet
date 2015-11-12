@@ -1,2 +1,3 @@
 # JSLNet
-Provider interface of tcp socket program, users can use network communication without care about the socket details.
+
+使用Windows Socket和完成端口模式实现底层通信，提供TCP服务端和客户端操作接口，使用者可以在不考虑底层socket实现细节的基础创建服务器或客户端，实现数据通信。
