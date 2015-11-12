@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JSLNet", "JSLNet\JSLNet.vcxproj", "{CCE96209-91DE-42BD-9FCD-D2BFAB973110}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{1140B8A6-E49D-48DB-8E34-96EED2F0EE85}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcxproj", "{BF29E675-C241-4417-A10F-57078A84139D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE96209-91DE-42BD-9FCD-D2BFAB973110}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCE96209-91DE-42BD-9FCD-D2BFAB973110}.Debug|Win32.Build.0 = Debug|Win32
+		{CCE96209-91DE-42BD-9FCD-D2BFAB973110}.Release|Win32.ActiveCfg = Release|Win32
+		{CCE96209-91DE-42BD-9FCD-D2BFAB973110}.Release|Win32.Build.0 = Release|Win32
+		{1140B8A6-E49D-48DB-8E34-96EED2F0EE85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1140B8A6-E49D-48DB-8E34-96EED2F0EE85}.Debug|Win32.Build.0 = Debug|Win32
+		{1140B8A6-E49D-48DB-8E34-96EED2F0EE85}.Release|Win32.ActiveCfg = Release|Win32
+		{1140B8A6-E49D-48DB-8E34-96EED2F0EE85}.Release|Win32.Build.0 = Release|Win32
+		{BF29E675-C241-4417-A10F-57078A84139D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF29E675-C241-4417-A10F-57078A84139D}.Debug|Win32.Build.0 = Debug|Win32
+		{BF29E675-C241-4417-A10F-57078A84139D}.Release|Win32.ActiveCfg = Release|Win32
+		{BF29E675-C241-4417-A10F-57078A84139D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
